@@ -5,7 +5,7 @@ String nombre;
   int vida:
 Inventario inventario;
 
-  public Personaje(String nombrt, int vida){
+  public Personaje(String nombre, int vida){
     this.nombre = nombre;
     this.vida=vida;
     this.inventario = new inventario();
